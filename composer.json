@@ -1,0 +1,17 @@
+{
+    "name": "aydin/userservice",
+    "require": {
+        "laravel/framework": "10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aydin\\Userservice\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aydinyagizz",
+            "email": "aydinyagiz002@gmail.com"
+        }
+    ]
+}
