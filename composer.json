@@ -1,7 +1,7 @@
 {
     "name": "aydin/userservice",
     "require": {
-        "laravel/framework": "10"
+        "laravel/framework": "^10"
     },
     "autoload": {
         "psr-4": {
